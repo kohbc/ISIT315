@@ -16,7 +16,7 @@ owl:GDPR-Data-Ontology
 a owl:Class;
 rdfs:hasSubClass owl:GDPR-Data-Subject-Rights, owl:Rights-Sub-Provisions-23, owl:GDPR-Data-Protection-Principles.
 
-owl:Self-direction–thought
+owl:Self-direction-thought
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Freedom_to_cultivate_ones_own_ideas_and_abilities;
 rdfs:hasExplanation owl:Creativity-imagination, owl:Curious-interested.
@@ -30,7 +30,7 @@ rdf:type owl:Value-items.
 owl:Curious-interested
 rdf:type owl:Value-items.
 
-owl:Self-direction–action
+owl:Self-direction-action
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Freedom_to_determine_ones_own_actions;
 rdfs:hasExplanation owl:Privacy, owl:Choosing_own_goals-own_purposes, owl:Independent-self-reliant;
@@ -96,7 +96,7 @@ rdf:type owl:Value-items.
 owl:Capable-competent
 rdf:type owl:Value-items.
 
-owl:Power–dominance
+owl:Power-dominance
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Power_through_exercising_control_over_people;
 rdfs:hasExplanation owl:Social_power-control_over_others, owl:Authority-right_to_command;
@@ -112,7 +112,7 @@ rdf:type owl:Value-items.
 owl:Authority-right_to_command
 rdf:type owl:Value-items.
 
-owl:Power–resources
+owl:Power-resources
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Power_through_control_of_material_and_social_resources;
 rdfs:hasExplanation owl:Wealth-material_possessions;
@@ -140,7 +140,7 @@ rdf:type owl:Value-items.
 owl:Social_recognition-respect
 rdf:type owl:Value-items.
 
-owl:Security–personal
+owl:Security-personal
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Safety_in_ones_immediate_environment;
 rdfs:hasExplanation owl:Healthy-not_sick, owl:Sense_of_belonging-feeling_others_care_about_me, owl:Reciprocating_favors-avoiding_indebtedness, owl:Family_security-safety_for_loved_ones, owl:Clean-neat_tidy;
@@ -165,7 +165,7 @@ rdf:type owl:Value-items.
 owl:Clean-neat_tidy
 rdf:type owl:Value-items.
 
-owl:Security–societal
+owl:Security-societal
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Safety_and_stability_in_the_wider_society;
 rdfs:hasExplanation owl:National_security-nation_safe_from_enemies, owl:Social_order-societal_stability;
@@ -194,7 +194,7 @@ rdf:type owl:Value-items.
 owl:Respect_tradition-preserve_customs
 rdf:type owl:Value-items.
 
-owl:Conformity–rules
+owl:Conformity-rules
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Compliance_with_rules_laws_and_formal_obligations;
 rdfs:hasExplanation owl:Obedient-meet_obligations, owl:Self-discipline-resist_temptation;
@@ -210,7 +210,7 @@ rdf:type owl:Value-items.
 owl:Self-discipline-resist_temptation
 rdf:type owl:Value-items.
 
-owl:Conformity–interpersonal
+owl:Conformity-interpersonal
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Avoidance_of_upsetting_or_harming_other_people;
 rdfs:hasExplanation owl:Politeness-courtesy, owl:Honor_parents-show_respect.
@@ -238,7 +238,7 @@ rdf:type owl:Value-items.
 owl:Humble-modest_self-effacing
 rdf:type owl:Value-items.
 
-owl:Benevolence–caring
+owl:Benevolence-caring
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Devotion_to_the_welfare_of_in-group_members;
 rdfs:hasExplanation owl:Honest-genuine, owl:Family_security-safety_for_loved_ones, owl:Forgiving-willing_to_pardon, owl:Helpful-working_for_others_welfare;
@@ -256,7 +256,7 @@ rdf:type owl:Value-items.
 owl:Helpful-working_for_others_welfare
 rdf:type owl:Value-items.
 
-owl:Benevolence–dependability
+owl:Benevolence-dependability
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Being_a_reliable_and_trustworthy_member_of_the_in-group;
 rdfs:hasExplanation owl:Responsible-dependable, owl:Loyal-faithful_to_friends.
@@ -270,7 +270,7 @@ rdf:type owl:Value-items.
 owl:Loyal-faithful_to_friends
 rdf:type owl:Value-items.
 
-owl:Universalism–nature
+owl:Universalism-nature
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Preservation_of_the_natural_environment;
 rdfs:hasExplanation owl:Protect_the_environment, owl:Unity_with_nature, owl:World_beauty.
@@ -287,7 +287,7 @@ rdf:type owl:Value-items.
 owl:World_beauty
 rdf:type owl:Value-items.
 
-owl:Universalism–concern
+owl:Universalism-concern
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Commitment_to_equality_justice_and_protection_for_all_people;
 rdfs:hasExplanation owl:World_at_peace, owl:Equality_for_all, owl:Social_justice;
@@ -305,7 +305,7 @@ rdf:type owl:Value-items.
 owl:Social_justice
 rdf:type owl:Value-items.
 
-owl:Universalism–tolerance
+owl:Universalism-tolerance
 rdf:type owl:Human-values;
 rdfs:hasDefinition owl:Acceptance_and_understanding_of_those_who_are_different_from_oneself;
 rdfs:hasExplanation owl:Broadminded-tolerant, owl:Wisdom-mature_understanding.
